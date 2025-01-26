@@ -1,0 +1,2 @@
+INSERT INTO users (username, password, gmail_id, phone_number, gender, state, country, profession, role)
+VALUES ('admin', '$2a$10$7eqJtq98jFjgkD5y8JBUCu2RzKZ5peEwOZ2RmtUcJ9O8j2OkKC/He', 'admin@gmail.com', '1234567890', 'Male', 'California', 'USA', 'Admin', 'ADMIN');
