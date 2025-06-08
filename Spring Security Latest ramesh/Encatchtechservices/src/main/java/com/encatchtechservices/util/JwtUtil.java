@@ -8,10 +8,7 @@ import org.springframework.stereotype.Component;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
+
 
 @Component
 public class JwtUtil {
