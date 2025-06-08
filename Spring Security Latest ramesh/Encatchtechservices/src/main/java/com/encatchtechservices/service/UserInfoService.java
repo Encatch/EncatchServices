@@ -13,10 +13,6 @@ import com.encatchtechservices.model.UserInfo;
 import com.encatchtechservices.model.UserInfoDetails;
 import com.encatchtechservices.repo.UserInfoRepository;
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
 @Service
 public class UserInfoService implements UserDetailsService {
 
