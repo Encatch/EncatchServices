@@ -17,10 +17,7 @@ import com.encatchtechservices.model.UserInfo;
 import com.encatchtechservices.service.JwtService;
 import com.encatchtechservices.service.UserInfoService;
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
+
 @RestController
 @RequestMapping("/auth")
 public class LoginController {
