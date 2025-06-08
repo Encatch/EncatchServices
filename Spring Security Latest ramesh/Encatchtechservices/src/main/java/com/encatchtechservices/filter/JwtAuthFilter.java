@@ -18,10 +18,7 @@ import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
+
 @Component
 public class JwtAuthFilter extends OncePerRequestFilter {
 
