@@ -4,11 +4,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
-
 @SpringBootApplication
 public class EncatchtechservicesApplication {
 
