@@ -20,10 +20,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 import com.encatchtechservices.filter.JwtAuthFilter;
 import com.encatchtechservices.service.UserInfoService;
 
-/**
- * @author Ramesh J
- * 23-Feb-2025
- */
+
 
 @Configuration
 @EnableWebSecurity
